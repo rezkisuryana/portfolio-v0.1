@@ -1,13 +1,12 @@
 {
-  "name": "portfolio",
+  "name": "portfolio2025",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "vercel --prod"
+    "lint": "next lint"
   },
   "dependencies": {
     "@react-three/drei": "^9.105.4",
@@ -16,10 +15,7 @@
     "@types/three": "^0.163.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "core-js": "^3.41.0",
-    "debug": "^4.3.1",
     "framer-motion": "^11.0.25",
-    "lottie-react": "^2.4.1",
     "lucide-react": "^0.365.0",
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.1.4",
@@ -30,13 +26,11 @@
     "react-lottie": "^1.2.4",
     "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7",
-    "three": "^0.174.0",
     "three-globe": "^2.42.1",
-    "uuid": "^9.0.1",
     "vercel": "^34.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.17.23",
+    "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/react-lottie": "^1.2.10",
