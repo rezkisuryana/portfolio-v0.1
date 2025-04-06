@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b498995b.css",
+    "main.js": "/static/js/main.b3097ff5.js",
+    "static/js/3.0b699837.chunk.js": "/static/js/3.0b699837.chunk.js",
+    "static/media/profile.png": "/static/media/profile.d14aeab30a6c40ee664c.png",
+    "static/media/sungaisail.webp": "/static/media/sungaisail.bfc0d21ac1605e1fc810.webp",
+    "static/media/gagas.webp": "/static/media/gagas.9d7d593ceeb3fb95fc8b.webp",
+    "static/media/rezki.webp": "/static/media/rezki.06554cc121a1217069a4.webp",
+    "static/media/ppdb.webp": "/static/media/ppdb.1a7cb8b270d5bc84c4d5.webp",
+    "static/media/yabahit.webp": "/static/media/yabahit.5db63704c1143da726d2.webp",
+    "static/media/pusakapest2.webp": "/static/media/pusakapest2.8e0462ae9efb2e246172.webp",
+    "static/media/garuda.webp": "/static/media/garuda.30476ebc3d8ad6da20fc.webp",
+    "static/media/duacahaya.webp": "/static/media/duacahaya.48f27abc4b24acd4f6fa.webp",
+    "index.html": "/index.html",
+    "main.b498995b.css.map": "/static/css/main.b498995b.css.map",
+    "main.b3097ff5.js.map": "/static/js/main.b3097ff5.js.map",
+    "3.0b699837.chunk.js.map": "/static/js/3.0b699837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b498995b.css",
+    "static/js/main.b3097ff5.js"
+  ]
+}
